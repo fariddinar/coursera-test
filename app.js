@@ -2,7 +2,6 @@ var student={
   name:"",
   type:"student"
 };
-
 document.addEventListener("DOMContentLoaded", contentLoaded);
 
 function contentLoaded(event){
